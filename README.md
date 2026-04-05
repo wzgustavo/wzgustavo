@@ -85,51 +85,13 @@ gustavo = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WZGUSTAVO&theme=tokyonight&background=0d1117&border=6e40c9&ring=6e40c9&fire=ff6b6b&currStreakLabel=6e40c9" />
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/WZGUSTAVO/WZGUSTAVO/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </div>
 
-> ⚙️ Para ativar a snake animation, crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil com o conteúdo abaixo:
 
-<details>
-<summary>📄 Ver snake.yml</summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
 
 ---
 
