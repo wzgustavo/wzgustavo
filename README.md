@@ -14,7 +14,7 @@
 
 ```python
 gustavo = {
-    "nome":     "Gustavo Henrique Souza de Melo",
+    "nome":     "Gustavo Henrique",
     "foco":     ["Machine Learning", "Dados", "Cloud", "IA"],
     "aprendendo": ["Java", "MLOps", "GCP Avançado"],
     "projeto":  "AnuncioLab 🚀 — rodando na Google Cloud",
@@ -29,9 +29,21 @@ gustavo = {
 
 <div align="center">
 
+### [![AnuncioLab](https://img.shields.io/badge/🌐_AnuncioLab-Acessar_Site-6e40c9?style=for-the-badge)](https://www.anunciolab.com/)
+
 | 🏷️ Projeto | ☁️ Cloud | 📌 Descrição |
 |---|---|---|
-| **AnuncioLab** | Google Cloud Platform | Plataforma de anúncios inteligente hospedada na nuvem |
+| **[AnuncioLab](https://www.anunciolab.com/)** | Google Cloud Platform | Plataforma SaaS de anúncios inteligente com IA |
+
+**Stack do AnuncioLab:**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=graphql&logoColor=9B59B6)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=1C3C3C)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-0d1117?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Stripe](https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=635BFF)
 
 </div>
 
@@ -74,11 +86,6 @@ gustavo = {
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WZGUSTAVO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WZGUSTAVO&layout=compact&langs_count=7&theme=tokyonight&border_color=6e40c9&bg_color=0d1117&title_color=6e40c9&text_color=ffffff"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WZGUSTAVO&theme=tokyonight&background=0d1117&border=6e40c9&ring=6e40c9&fire=ff6b6b&currStreakLabel=6e40c9" />
